@@ -1,5 +1,11 @@
 theme: jekyll-theme-modernist
 
+title: Word Play
+description: Unite the world through play.
+
+show_downloads: false
+google_analytics: UA-76503938-2
+
 exclude:
   - CNAME
   - Gemfile
